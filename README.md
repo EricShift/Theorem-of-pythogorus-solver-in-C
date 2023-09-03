@@ -1,0 +1,1 @@
+# Theorem-of-pythogorus-solver-in-C
